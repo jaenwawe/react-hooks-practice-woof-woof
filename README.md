@@ -23,7 +23,7 @@ Then, run `npm run server` to start up `json-server` on `http://localhost:3001`.
 
 In another tab, run `npm start` to start up our React app at `http://localhost:3000`.
 
-Go ahead and head to `http://localhost:3001/pups` in your browser to view the data.
+Go ahead and head to ``http://localhost:3001/pups`` in your browser to view the data.
 
 Familiarize yourself with the attributes for each pup. Try going to `/pups/:id` to see an individual pup as well.
 
